@@ -59,3 +59,12 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
   
   
   
+  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ritikgi.ritikgi)
+
+
+Leave a ⭐️ if you like this template and want to modify it for yourself!
+
+ 
+  
+  
