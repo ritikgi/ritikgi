@@ -37,7 +37,9 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 <div><p>My profile overview: </p></div>
 
-![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritikgi&show_icons=true)
+<a href="https://github.com/hackcoderr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ritikgi&show_icons=true&include_all_commits=true&theme=radical" alt="Ritik's github stats" />
+</a>
 <br />
 <br />
 
