@@ -9,7 +9,7 @@
   <img align="left" alt="Ritik's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://medium.com/@apurvshah2604">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+  <img align="left" alt="Ritik's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 <br />
 <br />
@@ -33,3 +33,10 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 </h4>
 </div>
+
+
+<div><p>My profile overview: </p></div>
+
+![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
+<br />
+<br />
