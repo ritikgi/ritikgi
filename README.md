@@ -37,12 +37,12 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 <div><p>My profile overview: </p></div>
 
-![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
+![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritikgi&show_icons=true)
 <br />
 <br />
 
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ritikgi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <details>
