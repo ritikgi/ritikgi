@@ -61,11 +61,11 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 <a href="https://www.linkedin.com/in/ritikgupta12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18271045/ritik-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/the_lazy_hoplite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<br />  
   
   
   
-  
-  <br />
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ritikgi.ritikgi)
 
 <br />
