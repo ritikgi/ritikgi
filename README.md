@@ -41,9 +41,10 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ritikgi&show_icons=true&include_all_commits=true&theme=radical" alt="Ritik's github stats" />
 </a>
 <br />
+<br />
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ritikgi&layout=compact&theme=radical" />
 </a>
-<br/>
+<br />
 <br />
 
 <!-- 
@@ -64,10 +65,10 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
   
   
   
-  
+  <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ritikgi.ritikgi)
 
-
+<br />
 Leave a ⭐️ if you like this template and want to modify it for yourself!
 
  
