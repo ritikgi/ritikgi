@@ -5,10 +5,10 @@
 <a href="https://www.linkedin.com/in/ritikgupta12/">
   <img align="left" alt="Ritik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com/RItikgi12/">
+<a href="https://leetcode.com/Ritikgupta12/">
   <img align="left" alt="Ritik's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://medium.com/@apurvshah2604">
+<a href="https://medium.com/@ritik-gupta" target=_blank>
   <img align="left" alt="Ritik's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 <br />
