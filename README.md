@@ -24,10 +24,7 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 </h4>
 </div>
-
-
-
-### Blogs posts
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -47,38 +44,3 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikgi&show_icons=true&locale=en" alt="ritikgi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikgi&" alt="ritikgi" /></p>
-
-
-
-<div><p>My profile overview: </p></div>
-
-<a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ritikgi&show_icons=true&include_all_commits=true&theme=radical" alt="Ritik's github stats" />
-</a>
-<br />
-<br />
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ritikgi&layout=compact&theme=radical" />
-</a>
-<br />
-<br />
-
-<!-- 
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ritikgi&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
-
-
-
-
-  
-  
-
-
-
-
-
-
-
- 
-  
-  
