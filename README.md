@@ -27,6 +27,11 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ansible and its use case](https://ritik-gupta.medium.com/ansible-and-its-use-case-3832a93cdd84?source=rss-2f514cb79f99------2)
+- [How to run Docker inside Docker Container and why?](https://ritik-gupta.medium.com/how-to-run-docker-inside-docker-container-and-why-a891b15b225f?source=rss-2f514cb79f99------2)
+- [How To Run GUI Based Application Inside Docker Containers](https://ritik-gupta.medium.com/how-to-run-gui-based-application-inside-docker-containers-155805ec73e5?source=rss-2f514cb79f99------2)
+- [espeak-ng &amp; its options](https://ritik-gupta.medium.com/espeak-ng-its-options-2244dbd2942?source=rss-2f514cb79f99------2)
+- [Zenity &amp; its option](https://ritik-gupta.medium.com/zenity-its-option-c575a42aa7a1?source=rss-2f514cb79f99------2)
 <!-- BLOG-POST-LIST:END -->
 
 
