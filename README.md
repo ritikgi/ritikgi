@@ -24,7 +24,7 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 </h4>
 </div>
-## Blogs posts
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
