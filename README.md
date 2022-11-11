@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ritik Gupta from India 🇮🇳</h1>
 <!-- <h3 align="center">The DevOps Guy who ♥ automating stuff</h3> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikgi&label=Profile%20views&color=0e75b6&style=flat" alt="ritikgi" /> </p>
 
 - 🌱 I’m currently learning **DevOps, MERN-Stack**
 
@@ -46,3 +45,9 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikgi&show_icons=true&locale=en" alt="ritikgi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikgi&" alt="ritikgi" /></p>
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikgi&label=Profile%20views&color=0e75b6&style=flat" alt="ritikgi" /> </p>
+
