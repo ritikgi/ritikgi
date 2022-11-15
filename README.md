@@ -27,11 +27,11 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Kubernetes is used in Industries and what all use cases are solved by K8s?](https://ritik-gupta.medium.com/how-kubernetes-is-used-in-industries-and-what-all-use-cases-are-solved-by-k8s-3c41a14a5e33?source=rss-2f514cb79f99------2)
+- [Configure apache web server inside docker using ansible](https://ritik-gupta.medium.com/configure-apache-web-server-inside-docker-using-ansible-2a259dcb57ab?source=rss-2f514cb79f99------2)
 - [Machine Learning use case](https://ritik-gupta.medium.com/machine-learning-use-case-97538547ae97?source=rss-2f514cb79f99------2)
 - [Ansible and its use case](https://ritik-gupta.medium.com/ansible-and-its-use-case-3832a93cdd84?source=rss-2f514cb79f99------2)
 - [How to run Docker inside Docker Container and why?](https://ritik-gupta.medium.com/how-to-run-docker-inside-docker-container-and-why-a891b15b225f?source=rss-2f514cb79f99------2)
-- [How To Run GUI Based Application Inside Docker Containers](https://ritik-gupta.medium.com/how-to-run-gui-based-application-inside-docker-containers-155805ec73e5?source=rss-2f514cb79f99------2)
-- [espeak-ng &amp; its options](https://ritik-gupta.medium.com/espeak-ng-its-options-2244dbd2942?source=rss-2f514cb79f99------2)
 <!-- BLOG-POST-LIST:END -->
 
 
