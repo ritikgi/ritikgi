@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ritik Gupta from India 🇮🇳</h1>
 <!-- <h3 align="center">The DevOps Guy who ♥ automating stuff</h3> -->
-<h3 align="center">Learning Devops</h3>
+<h3 align="center">Devops Engineer</h3>
 
 - 🌱 I’m currently learning **DevOps, MERN-Stack**
 
