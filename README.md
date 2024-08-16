@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DevOps, MERN-Stack**
 
-- 📝 I regularly write articles on [https://ritik-gupta.medium.com/](https://ritik-gupta.medium.com/)
+- 📝 I regularly write articles on [https://ritikguptablogs.hashnode.dev/](https://ritikguptablogs.hashnode.dev/)
 
 This is the place where I opensource stuff and save n break things :rofl
 
