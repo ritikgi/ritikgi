@@ -1,14 +1,15 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ritik Gupta from India 🇮🇳</h1>
 <!-- <h3 align="center">The DevOps Guy who ♥ automating stuff</h3> -->
-<h3 align="center">Devops Engineer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **DevOps, MERN-Stack**
+- 🌱 I’m currently learning **MERN-Stack, DevOps**
 
 - 📝 I regularly write articles on [https://ritikguptablogs.hashnode.dev/](https://ritikguptablogs.hashnode.dev/)
 
 This is the place where I opensource stuff and save n break things :rofl
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
+- 💻 &nbsp;I’m passionate about building full-stack applications with modern web technologies
 - 🌱 &nbsp;I’m currently learning DevOps Tools & Practices
 
 
@@ -16,11 +17,11 @@ This is the place where I opensource stuff and save n break things :rofl
 ## About Me ✍
 <div>
  <p>
-   I am highly dedicated and eager to learn and leverage the in-depth knowledge of high-end technical skills like 
-DevOps, Cloud Computing, Data Science, Containers and many more to drive success in the technological world.
+   I am a Full Stack Developer with a passion for building scalable, efficient, and user-friendly applications. Highly dedicated and always eager to learn, I leverage my in-depth knowledge of both front-end and back-end technologies to deliver end-to-end solutions. With experience in DevOps, Cloud Computing, Containers, and many more, I am committed to driving success in the ever-evolving tech world.
    
-I always passionate about understanding the core concepts behind different popular Technological Fields.
-Do visit my Medium page where I ocassioanlly publish about my experiences exploring the world of open-source development and how this year has been so unique. 
+I am always passionate about understanding the core concepts behind various technological fields and staying at the forefront of innovation. Whether it’s optimizing web performance or deploying applications in cloud environments, I enjoy tackling complex problems and finding efficient, robust solutions.
+
+Do visit my Medium page where I occasionally publish about my experiences exploring the world of open-source development and how this year has been so unique. 
 
 </h4>
 </div>
