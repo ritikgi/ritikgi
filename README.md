@@ -2,7 +2,7 @@
 <!-- <h3 align="center">The DevOps Guy who ♥ automating stuff</h3> -->
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **MERN-Stack, DevOps**
+- 🌱 I’m Full Stack Developer using **Java, GO Lang, Python, & DevOps Tools**
 
 - 📝 I regularly write articles on [https://ritikguptablogs.hashnode.dev/](https://ritikguptablogs.hashnode.dev/)
 
